@@ -5,5 +5,4 @@
   	console.log(helloSpeaker.speakWord + " " + name);
 	}
 	window.helloSpeaker=helloSpeaker;
-}
-)(window);
+})(window);
