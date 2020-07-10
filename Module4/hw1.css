@@ -1,0 +1,20 @@
+header{
+	background-color: #9aa19c;
+}
+h1{
+	text-align: center;
+	color: #e1e3e8;
+}
+h2{
+	color: #95e896;
+}
+section{
+	background-color: #525952;
+}
+a{
+	color: #0d0f0d;
+	background-color: #c5c9c5;
+}
+img{
+	display: none;
+}
